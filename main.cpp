@@ -43,7 +43,8 @@ void findTwoMissingNumbers(int arr[], int n)
 						{1, 2, ...n } */
 	} 
 
-	printf("Two Missing Numbers are\n %d %d", x, y); 
+	printf("Two Missing Numbers are\n %d %d", x, y);
+        cout << "chaman"; 
 } 
 
 // Driver program to test above function 
